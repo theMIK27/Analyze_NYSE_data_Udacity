@@ -1,5 +1,5 @@
 # Analyze_NYSE_data_Udacity
-Analyze-NYSE-Data:
+
 
 How Do You Complete this Project? This project is connected with the Introduction to the Data part of the course, but depending on your background knowledge, you may not need to take this module to complete this project.
 
